@@ -1,3 +1,5 @@
+# Minimal Todo App
+
 **Privacy Policy**
 
 Jonas Jaszkowic built the Minimal Todo App app as a Free app. This SERVICE is provided by Jonas Jaszkowic at no cost and is intended for use as is.
